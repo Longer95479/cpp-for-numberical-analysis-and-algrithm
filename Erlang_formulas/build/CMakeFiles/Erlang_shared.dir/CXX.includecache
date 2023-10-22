@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+..//Erlang.hpp
+cmath
+-
+
+/home/longer95479/numberical_analysis/Erlang_formulas/Erlang.cpp
+Erlang.hpp
+-
+

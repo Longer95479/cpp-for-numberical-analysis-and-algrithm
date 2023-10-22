@@ -1,0 +1,1 @@
+/usr/bin/c++  -g  -rdynamic CMakeFiles/Erlang.dir/main.cpp.o  -o Erlang -Wl,-rpath,/home/longer95479/numberical_analysis/Erlang_formulas/build libErlang_shared.so 

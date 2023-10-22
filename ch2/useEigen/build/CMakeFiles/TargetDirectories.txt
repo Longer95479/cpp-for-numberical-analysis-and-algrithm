@@ -1,0 +1,3 @@
+/home/longer95479/numberical_analysis/ch2/useEigen/build/CMakeFiles/rebuild_cache.dir
+/home/longer95479/numberical_analysis/ch2/useEigen/build/CMakeFiles/gauss_and_gauss_col_remain.dir
+/home/longer95479/numberical_analysis/ch2/useEigen/build/CMakeFiles/edit_cache.dir

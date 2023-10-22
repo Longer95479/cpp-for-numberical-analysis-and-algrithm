@@ -1,0 +1,1 @@
+/usr/bin/c++  -g  -rdynamic CMakeFiles/djikstra_test.dir/main.cpp.o  -o djikstra_test -Wl,-rpath,/home/longer95479/numberical_analysis/dijkstra/build libdijkstra_shared.so 

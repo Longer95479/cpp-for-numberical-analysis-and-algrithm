@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -DNDEBUG  -rdynamic CMakeFiles/gauss_and_gauss_col_remain.dir/gauss_and_gauss_col_remain.cpp.o  -o gauss_and_gauss_col_remain 

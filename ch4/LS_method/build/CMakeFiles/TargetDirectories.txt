@@ -1,0 +1,3 @@
+/home/longer95479/numberical_analysis/ch4/LS_method/build/CMakeFiles/rebuild_cache.dir
+/home/longer95479/numberical_analysis/ch4/LS_method/build/CMakeFiles/LS_method.dir
+/home/longer95479/numberical_analysis/ch4/LS_method/build/CMakeFiles/edit_cache.dir

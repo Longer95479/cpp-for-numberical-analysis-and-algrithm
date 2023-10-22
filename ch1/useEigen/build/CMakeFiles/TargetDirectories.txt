@@ -1,0 +1,4 @@
+/home/longer95479/numberical_analysis/ch1/useEigen/build/CMakeFiles/edit_cache.dir
+/home/longer95479/numberical_analysis/ch1/useEigen/build/CMakeFiles/rebuild_cache.dir
+/home/longer95479/numberical_analysis/ch1/useEigen/build/CMakeFiles/newton_solve_eqs.dir
+/home/longer95479/numberical_analysis/ch1/useEigen/build/CMakeFiles/sim_newton.dir

@@ -1,0 +1,4 @@
+/home/longer95479/numberical_analysis/Erlang_formulas/build/CMakeFiles/edit_cache.dir
+/home/longer95479/numberical_analysis/Erlang_formulas/build/CMakeFiles/rebuild_cache.dir
+/home/longer95479/numberical_analysis/Erlang_formulas/build/CMakeFiles/Erlang.dir
+/home/longer95479/numberical_analysis/Erlang_formulas/build/CMakeFiles/Erlang_shared.dir

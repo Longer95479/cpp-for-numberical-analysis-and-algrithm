@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -g  -shared -Wl,-soname,libErlang_shared.so -o libErlang_shared.so CMakeFiles/Erlang_shared.dir/Erlang.cpp.o 

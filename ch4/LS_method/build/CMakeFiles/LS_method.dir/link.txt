@@ -1,0 +1,1 @@
+/usr/bin/c++  -g  -rdynamic CMakeFiles/LS_method.dir/main.cpp.o  -o LS_method 

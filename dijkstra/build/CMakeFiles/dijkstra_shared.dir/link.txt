@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -g  -shared -Wl,-soname,libdijkstra_shared.so -o libdijkstra_shared.so CMakeFiles/dijkstra_shared.dir/dijkstra.cpp.o 

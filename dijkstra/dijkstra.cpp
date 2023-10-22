@@ -1,5 +1,6 @@
 #include <dijkstra.hpp>
 
+/* 类初始化函数 */
 Dijkstra::Dijkstra(const Eigen::MatrixXd &graph_matrix,
          int num_of_node,
          int start_node): 
@@ -25,13 +26,14 @@ Dijkstra::Dijkstra(const Eigen::MatrixXd &graph_matrix,
 
 }
 
+/* 类析构函数 */
 Dijkstra::~Dijkstra()
 {
     // delete paths_;
     // delete distant_table_;
 }
 
-
+/* 寻找最短路径及对应距离 */
 void Dijkstra::find_shortest_path(void)
 {
     /* 计算最短距离 */
@@ -105,6 +107,7 @@ void Dijkstra::find_shortest_path(void)
     }
 }
 
+/* 打印给定距离矩阵、最短路径及对应距离 */
 void Dijkstra::print(void)
 {
     std::cout << "route_matrix = " << std::endl << graph_matrix_ << std::endl << std::endl;

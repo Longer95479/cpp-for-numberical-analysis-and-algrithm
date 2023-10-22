@@ -110,7 +110,9 @@ void Dijkstra::find_shortest_path(void)
 /* 打印给定距离矩阵、最短路径及对应距离 */
 void Dijkstra::print(void)
 {
-    std::cout << "route_matrix = " << std::endl << graph_matrix_ << std::endl << std::endl;
+    /* 打印给定节点和路径长度矩阵 */
+    std::cout << "start node = " << start_node_+1 << std::endl;
+    std::cout << "route matrix = " << std::endl << graph_matrix_ << std::endl << std::endl;
 
     /* 输出指定节点到其他节点的最短路径 */
     std::cout << "shortest path: \n";

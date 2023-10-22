@@ -63,9 +63,12 @@ void Dijkstra::find_shortest_path(void)
                             if (min_dist > 
                                 (graph_matrix_(node_in_S,adj_of_node_in_S) 
                                 + (*distant_table_)(node_in_S,1))) {
-
+                                
+                                /* 更新最短距离 */
                                 min_dist = graph_matrix_(node_in_S,adj_of_node_in_S) 
                                            + (*distant_table_)(node_in_S,1);
+                                
+                                /* 缓存对应的两个节点，一个属于集合U，一个属于集合S */
                                 min_index = adj_of_node_in_S;
                                 father_of_latest_node_in_S_ = node_in_S;
                             }

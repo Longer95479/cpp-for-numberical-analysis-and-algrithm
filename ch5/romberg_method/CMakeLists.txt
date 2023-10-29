@@ -8,10 +8,10 @@ project(romberg_method)
 add_executable(romberg_method main.cpp)
 
 # 添加共享库
-add_library(romberg_method_shared SHARED romberg_method.cpp)
+#add_library(romberg_method_shared SHARED romberg_method.cpp)
 
 # 链接
-target_link_libraries(romberg_method romberg_method_shared)
+#target_link_libraries(romberg_method romberg_method_shared)
 
 # 添加头文件
 include_directories("/home/longer95479/eigen")
